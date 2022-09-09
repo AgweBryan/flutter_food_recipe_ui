@@ -1,6 +1,8 @@
 # flutter_food_recipe_ui
 
-A new Flutter project.
+Simple flutter ui
+
+![Screenshot_1661737059](https://user-images.githubusercontent.com/73445540/189455802-98126d47-fe0d-4c45-a171-078aba42b233.png)
 
 ## Getting Started
 
